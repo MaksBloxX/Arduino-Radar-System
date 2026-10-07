@@ -17,8 +17,8 @@ Developed as an academic project at the
 
 | | |
 | --- | --- |
-| **Project idea & supervision** | Md. Ebrahim Hossen — Lecturer, Dept of CSE, EBAUB |
-| **Developed by** | Md. Makshedul Islam — 2nd Year Student, Dept. of CSE, EBAUB |
+| **Project idea & supervision** | Md. Ebrahim Hossen — Lecturer, Dept of CSE |
+| **Developed by** | Md. Makshedul Islam — 2nd Year Student, Dept. of CSE |
 | **Institution** | EXIM Bank Agricultural University Bangladesh (EBAUB) |
 | **Year** | 2026 |
 
