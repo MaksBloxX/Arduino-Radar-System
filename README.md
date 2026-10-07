@@ -67,7 +67,7 @@ Developed as an academic project at the
 | | |
 | :---: | :---: |
 | ![Hardware — side view](images/hardware_side.png) | ![Hardware — top view](images/hardware_top.png) |
-| ![Hardware — sensor head](images/hardware_angle.png) | *HC-SR04 mounted on the SG90 servo, UNO on breadboard* |
+| ![Hardware — sensor head](images/hardware_angle.png) | ![Hardware — Show view](images/hardware_show.png)  |
 
 ---
 
